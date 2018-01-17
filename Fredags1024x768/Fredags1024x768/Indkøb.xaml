@@ -16,6 +16,11 @@
     </Page.Background>
 
     <Grid Width="1024" Height="768" VerticalAlignment="Bottom">
+        <Button Content="" HorizontalAlignment="Left" Height="150" Margin="864,608,0,0" VerticalAlignment="Top" Width="150" Click="Button_Click" BorderBrush="{x:Null}" Foreground="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="Billeder/back-button-md.png"/>
+            </Button.Background>
+        </Button>
 
     </Grid>
 </Page>

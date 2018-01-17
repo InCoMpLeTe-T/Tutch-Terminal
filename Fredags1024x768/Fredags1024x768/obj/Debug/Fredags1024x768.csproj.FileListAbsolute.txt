@@ -18,3 +18,11 @@ c:\users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags
 c:\users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags1024x768.csproj.CoreCompileInputs.cache
 c:\users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags1024x768.exe
 c:\users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags1024x768.pdb
+C:\Users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Indkøb.g.cs
+C:\Users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Kasse.g.cs
+C:\Users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Ret-La.g.cs
+C:\Users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Salg.g.cs
+C:\Users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Indkøb.baml
+C:\Users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Kasse.baml
+C:\Users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Ret-La.baml
+C:\Users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Salg.baml

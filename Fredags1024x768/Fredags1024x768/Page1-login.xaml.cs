@@ -20,6 +20,8 @@ namespace Fredags1024x768
     /// </summary>
     public partial class Page1_login : Page
     {
+
+    
         public Page1_login()
         {
             InitializeComponent();

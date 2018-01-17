@@ -20,12 +20,18 @@ namespace Fredags1024x768
     /// </summary>
     public partial class MainWindow : Window
     {
+
         public MainWindow()
         {
             InitializeComponent();
 
             Page1_login p1 = new Page1_login();
             MyFrame.NavigationService.Navigate(p1);
+        }
+
+        private void MyFrame_Navigated(object sender, NavigationEventArgs e)
+        {
+
         }
     }
 }

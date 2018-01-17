@@ -24,5 +24,48 @@ namespace Fredags1024x768
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Page1_MainMeny p2 = new Page1_MainMeny();
+            this.NavigationService.Navigate(p2);
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            //øl knappen gør den synlig
+            this.øl.Visibility = Visibility.Visible;           
+        }
+
+        private void Button_Click_4(object sender, RoutedEventArgs e)
+        {
+            //back knappen hidder 
+            this.øl.Visibility = Visibility.Hidden;
+        }
+
+        private void Button_Click_3(object sender, RoutedEventArgs e)
+        {
+            //Rtd knappen gør rtd synlig
+            this.Rtd.Visibility = Visibility.Visible;
+        }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            //back knappen hidder rtd
+            this.Rtd.Visibility = Visibility.Hidden;
+        }
+
+        private void Button_Click_6(object sender, RoutedEventArgs e)
+        {
+            //soda knappen gør sodan synlig
+            this.Soda.Visibility = Visibility.Visible;
+        }
+
+        private void Button_Click_5(object sender, RoutedEventArgs e)
+        {
+            //back knap hidder soda
+            this.Soda.Visibility = Visibility.Hidden;
+        }
+
     }
 }

@@ -8,6 +8,8 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("salgs%20billeder/download.jfif")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("salgs%20billeder/faxa.jfif")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("billeder/drinks.jfif")]
 
 

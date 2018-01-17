@@ -30,5 +30,30 @@ namespace Fredags1024x768
             Page1_login p1 = new Page1_login();
             this.NavigationService.Navigate(p1);
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            //ikke sikkert salg skal være p1!!!!!!!!!!!!!!!!!!!!
+            Salg p1 = new Salg();
+            this.NavigationService.Navigate(p1);
+        }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            Kasse p1 = new Kasse();
+            this.NavigationService.Navigate(p1);
+        }
+
+        private void Button_Click_3(object sender, RoutedEventArgs e)
+        {
+            Ret_La p1 = new Ret_La();
+            this.NavigationService.Navigate(p1);
+        }
+
+        private void Button_Click_4(object sender, RoutedEventArgs e)
+        {
+            Indkøb p1 = new Indkøb();
+            this.NavigationService.Navigate(p1);
+        }
     }
 }
