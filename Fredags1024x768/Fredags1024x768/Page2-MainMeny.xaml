@@ -17,7 +17,7 @@
     <Grid Width="1024" Height="768" VerticalAlignment="Bottom">
         <Label Content="Welcome" HorizontalAlignment="Left" Height="102" Margin="10,32,0,0" VerticalAlignment="Top" Width="324" FontSize="72" FontWeight="Bold" Foreground="White"/>
         <Label Content="(name of login)" HorizontalAlignment="Left" Margin="356,32,0,0" VerticalAlignment="Top" Height="102" Width="564" FontSize="72" Foreground="White"/>
-        <Button Content="Salg." HorizontalAlignment="Left" Margin="62,203,0,0" VerticalAlignment="Top" Width="200" Height="200" FontWeight="Bold" FontSize="48" BorderBrush="Black" Foreground="Red">
+        <Button Content="Salg." HorizontalAlignment="Left" Margin="62,203,0,0" VerticalAlignment="Top" Width="200" Height="200" FontWeight="Bold" FontSize="48" BorderBrush="Black" Foreground="Red" Click="Button_Click_1">
             <Button.Background>
                 <ImageBrush ImageSource="Billeder/19187297-danske-penge-pengesedler-og-mnter.jpg"/>
             </Button.Background>
@@ -30,17 +30,17 @@
                 <ImageBrush ImageSource="Billeder/E10105-2.jpg" TileMode="FlipX"/>
             </Button.BorderBrush>
         </Button>
-        <Button Content="Ret-LA." HorizontalAlignment="Left" Margin="764,203,0,0" VerticalAlignment="Top" Width="200" Height="200" FontWeight="Bold" FontSize="48" Foreground="Red">
+        <Button Content="Ret-LA." HorizontalAlignment="Left" Margin="764,203,0,0" VerticalAlignment="Top" Width="200" Height="200" FontWeight="Bold" FontSize="48" Foreground="Red" Click="Button_Click_3">
             <Button.Background>
                 <ImageBrush ImageSource="Billeder/Lager_logo.jpg"/>
             </Button.Background>
         </Button>
-        <Button Content="Kasse." HorizontalAlignment="Left" Margin="62,461,0,0" VerticalAlignment="Top" Width="200" Height="200" FontSize="48" FontWeight="Bold" Foreground="Red">
+        <Button Content="Kasse." HorizontalAlignment="Left" Margin="62,461,0,0" VerticalAlignment="Top" Width="200" Height="200" FontSize="48" FontWeight="Bold" Foreground="Red" Click="Button_Click_2">
             <Button.Background>
                 <ImageBrush ImageSource="Billeder/2741_415054.jpg"/>
             </Button.Background>
         </Button>
-        <Button Content="Indkøb." Margin="412,203,412,365" VerticalAlignment="Center" Width="200" Height="200" FontWeight="Bold" FontSize="48" Foreground="Red" BorderBrush="Black">
+        <Button Content="Indkøb." Margin="412,203,412,365" VerticalAlignment="Center" Width="200" Height="200" FontWeight="Bold" FontSize="48" Foreground="Red" BorderBrush="Black" Click="Button_Click_4">
             <Button.Background>
                 <ImageBrush ImageSource="Billeder/file_6_22.jpg"/>
             </Button.Background>

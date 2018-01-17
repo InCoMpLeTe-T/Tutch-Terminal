@@ -18,6 +18,16 @@ c:\users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags
 c:\users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags1024x768.csproj.CoreCompileInputs.cache
 c:\users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags1024x768.exe
 c:\users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags1024x768.pdb
+<<<<<<< HEAD
+C:\Users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Indkøb.g.cs
+C:\Users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Kasse.g.cs
+C:\Users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Ret-La.g.cs
+C:\Users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Salg.g.cs
+C:\Users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Indkøb.baml
+C:\Users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Kasse.baml
+C:\Users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Ret-La.baml
+C:\Users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Salg.baml
+=======
 C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\bin\Debug\Fredags1024x768.exe.config
 C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\bin\Debug\Fredags1024x768.exe
 C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\bin\Debug\Fredags1024x768.pdb
@@ -48,3 +58,4 @@ C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\D
 C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags1024x768.exe
 C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags1024x768.pdb
 C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags1024x768.csprojResolveAssemblyReference.cache
+>>>>>>> dec2a6d276a898d73c85a9ccaf88de38deb55ecb

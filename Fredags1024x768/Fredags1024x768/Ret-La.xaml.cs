@@ -24,5 +24,11 @@ namespace Fredags1024x768
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Page1_MainMeny p2 = new Page1_MainMeny();
+            this.NavigationService.Navigate(p2);
+        }
     }
 }

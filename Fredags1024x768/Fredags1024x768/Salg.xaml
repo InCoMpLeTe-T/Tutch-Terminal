@@ -16,6 +16,154 @@
     </Page.Background>
 
     <Grid Width="1024" Height="768" VerticalAlignment="Bottom">
+        <Button Content="" HorizontalAlignment="Left" Height="150" Margin="416,410,0,0" VerticalAlignment="Top" Width="150" Click="Button_Click" BorderBrush="{x:Null}" Foreground="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="Billeder/back-button-md.png"/>
+            </Button.Background>
+        </Button>
+        <TextBox HorizontalAlignment="Left" Height="174" Margin="600,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="366"/>
+        <Button Content="1" HorizontalAlignment="Left" Height="68" Margin="602,236,0,0" VerticalAlignment="Top" Width="94" FontSize="48" FontWeight="Bold"/>
+        <Button Content="0" HorizontalAlignment="Left" Height="67" Margin="736,513,0,0" VerticalAlignment="Top" Width="95" FontSize="48" FontWeight="Bold"/>
+        <Button Content="9" HorizontalAlignment="Left" Height="69" Margin="873,421,0,0" VerticalAlignment="Top" Width="93" FontSize="48" FontWeight="Bold"/>
+        <Button Content="8" HorizontalAlignment="Left" Height="69" Margin="736,421,0,0" VerticalAlignment="Top" Width="95" FontSize="48" FontWeight="Bold"/>
+        <Button Content="7" HorizontalAlignment="Left" Height="69" Margin="602,421,0,0" VerticalAlignment="Top" Width="94" FontSize="48" FontWeight="Bold"/>
+        <Button Content="6" HorizontalAlignment="Left" Height="67" Margin="873,333,0,0" VerticalAlignment="Top" Width="93" FontSize="48" FontWeight="Bold"/>
+        <Button Content="5" HorizontalAlignment="Left" Height="67" Margin="736,333,0,0" VerticalAlignment="Top" Width="95" FontSize="48" FontWeight="Bold"/>
+        <Button Content="4" HorizontalAlignment="Left" Height="67" Margin="602,333,0,0" VerticalAlignment="Top" Width="94" FontSize="48" FontWeight="Bold"/>
+        <Button Content="3" HorizontalAlignment="Left" Height="68" Margin="873,236,0,0" VerticalAlignment="Top" Width="93" FontSize="48" FontWeight="Bold"/>
+        <Button Content="2" HorizontalAlignment="Left" Height="68" Margin="736,236,0,0" VerticalAlignment="Top" Width="95" FontSize="48" FontWeight="Bold"/>
+        <Button Content="Ent" HorizontalAlignment="Left" Height="67" Margin="602,513,0,0" VerticalAlignment="Top" Width="94" FontSize="48" FontWeight="Bold" Click="Button_Click"/>
+        <Button Content="Del" HorizontalAlignment="Left" Height="67" Margin="873,513,0,0" VerticalAlignment="Top" Width="93" FontSize="48" FontWeight="Bold"/>
+        <Button Content="" HorizontalAlignment="Left" Height="150" Margin="28,210,0,0" VerticalAlignment="Top" Width="150" Click="Button_Click_1">
+            <Button.Background>
+                <ImageBrush ImageSource="Billeder/øl.jpg"/>
+            </Button.Background>
+        </Button>
+        <Button Content="" HorizontalAlignment="Left" Height="150" Margin="226,410,0,0" VerticalAlignment="Top" Width="150">
+            <Button.Background>
+                <ImageBrush ImageSource="Billeder/drinks.jpg" Stretch="UniformToFill"/>
+            </Button.Background>
+        </Button>
+        <Button Content="" HorizontalAlignment="Left" Height="150" Margin="28,410,0,0" VerticalAlignment="Top" Width="150">
+            <Button.Background>
+                <ImageBrush ImageSource="Billeder/shots.jpg"/>
+            </Button.Background>
+        </Button>
+        <Button Content="" HorizontalAlignment="Left" Height="150" Margin="416,210,0,0" VerticalAlignment="Top" Width="150" Click="Button_Click_6">
+            <Button.Background>
+                <ImageBrush ImageSource="Billeder/sodavand.jpg" Stretch="UniformToFill"/>
+            </Button.Background>
+        </Button>
+        <Button Content="" HorizontalAlignment="Left" Height="150" Margin="226,210,0,0" VerticalAlignment="Top" Width="150" Click="Button_Click_3">
+            <Button.Background>
+                <ImageBrush ImageSource="Billeder/rtd.jpg" Stretch="UniformToFill"/>
+            </Button.Background>
+        </Button>
+
+        <WrapPanel Name="øl" HorizontalAlignment="Left" Height="548" Margin="28,210,0,0" VerticalAlignment="Top" Width="538" Visibility="Hidden">
+            <WrapPanel.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="Lime" Offset="1"/>
+                </LinearGradientBrush>
+            </WrapPanel.Background>
+            <Button Content="" HorizontalAlignment="Left" Height="141" VerticalAlignment="Top" Width="268">
+                <Button.Background>
+                    <ImageBrush ImageSource="salgs billeder/carlsberg.jpg"/>
+                </Button.Background>
+            </Button>
+            <Button Content="" HorizontalAlignment="Left" Height="141" VerticalAlignment="Top" Width="268">
+                <Button.Background>
+                    <ImageBrush ImageSource="salgs billeder/Tuborg-logo-e1348049570720.jpg"/>
+                </Button.Background>
+            </Button>
+            <Button Content="Button" HorizontalAlignment="Left" Height="141" VerticalAlignment="Top" Width="268" Foreground="{x:Null}" Background="{x:Null}" BorderBrush="{x:Null}"/>
+            <Button Content="" HorizontalAlignment="Left" Height="141" VerticalAlignment="Top" Width="268" Foreground="#FF874E4E" Click="Button_Click_4">
+                <Button.Background>
+                    <ImageBrush ImageSource="Billeder/back-button-md.png"/>
+                </Button.Background>
+            </Button>
+        </WrapPanel>
+
+        <WrapPanel Name="Rtd" HorizontalAlignment="Left" Height="553" Margin="26,205,0,0" VerticalAlignment="Top" Width="540" Visibility="Hidden">
+            <WrapPanel.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FF00FF17" Offset="1"/>
+                </LinearGradientBrush>
+            </WrapPanel.Background>
+            <Button Content="" HorizontalAlignment="Left" Height="141" VerticalAlignment="Top" Width="268" BorderBrush="Black">
+                <Button.Background>
+                    <ImageBrush ImageSource="salgs billeder/Bacardi-breezer-logo.png"/>
+                </Button.Background>
+                <Button.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black" Offset="0"/>
+                        <GradientStop Color="Black" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.Foreground>
+            </Button>
+            <Button Content="" HorizontalAlignment="Left" Height="141" VerticalAlignment="Top" Width="268" BorderBrush="Black">
+                <Button.Background>
+                    <ImageBrush ImageSource="salgs billeder/ygPD8Sjn.png"/>
+                </Button.Background>
+            </Button>
+            <Button Content="" HorizontalAlignment="Left" Height="141" VerticalAlignment="Top" Width="268" BorderBrush="Black">
+                <Button.Background>
+                    <ImageBrush ImageSource="salgs billeder/Astonishing-Smirnoff-Ice-Logo-89-For-Google-Logo-History-with-Smirnoff-Ice-Logo.jpg"/>
+                </Button.Background>
+            </Button>
+            <Button Content="" HorizontalAlignment="Left" Height="141" VerticalAlignment="Top" Width="268" BorderBrush="Black" Click="Button_Click_2">
+                <Button.Background>
+                    <ImageBrush ImageSource="Billeder/back-button-md.png"/>
+                </Button.Background>
+            </Button>
+        </WrapPanel>
+
+        <WrapPanel Name="Soda" HorizontalAlignment="Left" Height="553" Margin="26,205,0,0" VerticalAlignment="Top" Width="540" Visibility="Hidden">
+            <WrapPanel.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FF00FF17" Offset="1"/>
+                </LinearGradientBrush>
+            </WrapPanel.Background>
+            <Button Content="" HorizontalAlignment="Left" Height="141" VerticalAlignment="Top" Width="268" BorderBrush="Black">
+                <Button.Background>
+                    <ImageBrush ImageSource="salgs billeder/Coca-Cola_logo.png"/>
+                </Button.Background>
+                <Button.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black" Offset="0"/>
+                        <GradientStop Color="Black" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.Foreground>
+            </Button>
+            <Button Content="" HorizontalAlignment="Left" Height="141" VerticalAlignment="Top" Width="268" BorderBrush="Black">
+                <Button.Background>
+                    <ImageBrush ImageSource="salgs billeder/cola light.jpg"/>
+                </Button.Background>
+            </Button>
+            <Button Content="" HorizontalAlignment="Left" Height="141" VerticalAlignment="Top" Width="268" BorderBrush="Black">
+                <Button.Background>
+                    <ImageBrush ImageSource="salgs billeder/Fanta.jpg"/>
+                </Button.Background>
+            </Button>
+            <Button Content="" HorizontalAlignment="Left" Height="141" VerticalAlignment="Top" Width="268" BorderBrush="Black" Click="Button_Click_2">
+                <Button.Background>
+                    <ImageBrush ImageSource="salgs billeder/fk-logo.jpg"/>
+                </Button.Background>
+            </Button>
+            <Button Content="" HorizontalAlignment="Left" Height="141" VerticalAlignment="Top" Width="268" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="{x:Null}"/>
+            <Button Content="" HorizontalAlignment="Left" Height="141" VerticalAlignment="Top" Width="268" BorderBrush="Black" Click="Button_Click_5">
+                <Button.Foreground>
+                    <ImageBrush ImageSource="Billeder/back-button-md.png"/>
+                </Button.Foreground>
+                <Button.Background>
+                    <ImageBrush ImageSource="Billeder/back-button-md.png"/>
+                </Button.Background>
+            </Button>
+        </WrapPanel>
+
 
     </Grid>
 </Page>

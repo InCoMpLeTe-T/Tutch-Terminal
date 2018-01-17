@@ -150,6 +150,26 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+<<<<<<< HEAD
+    <Resource Include="salgs billeder\fk-logo.jpg" />
+    <Resource Include="salgs billeder\Coca-Cola_logo.png" />
+    <Resource Include="salgs billeder\cola light.jpg" />
+    <Content Include="salgs billeder\download.jfif" />
+    <Resource Include="salgs billeder\Fanta.jpg" />
+    <Content Include="salgs billeder\faxa.jfif" />
+    <Resource Include="salgs billeder\1710511.jpg" />
+    <Resource Include="salgs billeder\Bacardi-logo-DD0961793C-seeklogo.com.png" />
+    <Resource Include="salgs billeder\Astonishing-Smirnoff-Ice-Logo-89-For-Google-Logo-History-with-Smirnoff-Ice-Logo.jpg" />
+    <Resource Include="salgs billeder\Bacardi-breezer-logo.png" />
+    <Resource Include="salgs billeder\ygPD8Sjn.png" />
+    <Resource Include="salgs billeder\carlsberg.jpg" />
+    <Resource Include="salgs billeder\Tuborg-logo-e1348049570720.jpg" />
+    <Resource Include="Billeder\rtd.jpg" />
+    <Resource Include="Billeder\drinks.jpg" />
+    <Resource Include="Billeder\luderbenz.jpg" />
+    <Resource Include="Billeder\shots.jpg" />
+    <Resource Include="Billeder\sodavand.jpg" />
+=======
     <Resource Include="docs\MySqlCommand.xml" />
     <Resource Include="docs\MySqlCommandBuilder.xml" />
     <Resource Include="docs\MySqlConnection.xml" />
@@ -161,11 +181,13 @@
     <Resource Include="docs\MySqlParameter.xml" />
     <Resource Include="docs\MySqlParameterCollection.xml" />
     <Resource Include="docs\MySqlTransaction.xml" />
+>>>>>>> dec2a6d276a898d73c85a9ccaf88de38deb55ecb
     <Resource Include="Billeder\E10105-2.jpg" />
     <Resource Include="Billeder\file_6_22.jpg" />
     <Resource Include="Billeder\19187297-danske-penge-pengesedler-og-mnter.jpg" />
     <Resource Include="Billeder\2741_415054.jpg" />
     <Resource Include="Billeder\800px_COLOURBOX7130715.jpg" />
+    <Resource Include="Billeder\back-button-md.png" />
     <Content Include="Billeder\drinks.jfif" />
     <Resource Include="Billeder\Lager_logo.jpg" />
     <Resource Include="Billeder\øl.jpg" />
