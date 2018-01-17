@@ -146,14 +146,6 @@ namespace Fredags1024x768
 #line default
 #line hidden
 
-
-#line 34 "..\..\Page1-login.xaml"
-        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
-        internal System.Windows.Controls.Label Wrong;
-
-#line default
-#line hidden
-
         private bool _contentLoaded;
 
         /// <summary>
