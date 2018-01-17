@@ -34,8 +34,20 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.10.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.6.10.5\lib\net452\MySql.Data.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime" />
+    <Reference Include="System.Transactions" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
@@ -127,6 +139,7 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -137,6 +150,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+<<<<<<< HEAD
     <Resource Include="salgs billeder\fk-logo.jpg" />
     <Resource Include="salgs billeder\Coca-Cola_logo.png" />
     <Resource Include="salgs billeder\cola light.jpg" />
@@ -155,6 +169,19 @@
     <Resource Include="Billeder\luderbenz.jpg" />
     <Resource Include="Billeder\shots.jpg" />
     <Resource Include="Billeder\sodavand.jpg" />
+=======
+    <Resource Include="docs\MySqlCommand.xml" />
+    <Resource Include="docs\MySqlCommandBuilder.xml" />
+    <Resource Include="docs\MySqlConnection.xml" />
+    <Resource Include="docs\MySqlConnectionStringBuilder.xml" />
+    <Resource Include="docs\MySqlDataAdapter.xml" />
+    <Resource Include="docs\MySqlDataReader.xml" />
+    <Resource Include="docs\MySqlException.xml" />
+    <Resource Include="docs\MySqlHelper.xml" />
+    <Resource Include="docs\MySqlParameter.xml" />
+    <Resource Include="docs\MySqlParameterCollection.xml" />
+    <Resource Include="docs\MySqlTransaction.xml" />
+>>>>>>> dec2a6d276a898d73c85a9ccaf88de38deb55ecb
     <Resource Include="Billeder\E10105-2.jpg" />
     <Resource Include="Billeder\file_6_22.jpg" />
     <Resource Include="Billeder\19187297-danske-penge-pengesedler-og-mnter.jpg" />

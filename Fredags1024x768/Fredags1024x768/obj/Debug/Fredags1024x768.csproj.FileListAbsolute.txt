@@ -18,6 +18,7 @@ c:\users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags
 c:\users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags1024x768.csproj.CoreCompileInputs.cache
 c:\users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags1024x768.exe
 c:\users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags1024x768.pdb
+<<<<<<< HEAD
 C:\Users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Indkøb.g.cs
 C:\Users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Kasse.g.cs
 C:\Users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Ret-La.g.cs
@@ -26,3 +27,35 @@ C:\Users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Indkøb
 C:\Users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Kasse.baml
 C:\Users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Ret-La.baml
 C:\Users\mlch.skp\source\repos\Fredags1024x768\Fredags1024x768\obj\Debug\Salg.baml
+=======
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\bin\Debug\Fredags1024x768.exe.config
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\bin\Debug\Fredags1024x768.exe
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\bin\Debug\Fredags1024x768.pdb
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\bin\Debug\MySql.Data.dll
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\bin\Debug\MySql.Data.xml
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Indkøb.g.cs
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Kasse.g.cs
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\MainWindow.g.cs
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Page1-login.g.cs
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Page2-MainMeny.g.cs
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Ret-La.g.cs
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Salg.g.cs
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\App.g.cs
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags1024x768_Content.g.cs
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags1024x768_MarkupCompile.cache
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags1024x768_MarkupCompile.lref
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Indkøb.baml
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Kasse.baml
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\MainWindow.baml
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Page1-login.baml
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Page2-MainMeny.baml
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Ret-La.baml
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Salg.baml
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags1024x768.g.resources
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags1024x768.Properties.Resources.resources
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags1024x768.csproj.GenerateResource.Cache
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags1024x768.csproj.CoreCompileInputs.cache
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags1024x768.exe
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags1024x768.pdb
+C:\Users\jh1h.skp\Desktop\github\vlantouch\Fredags1024x768\Fredags1024x768\obj\Debug\Fredags1024x768.csprojResolveAssemblyReference.cache
+>>>>>>> dec2a6d276a898d73c85a9ccaf88de38deb55ecb
