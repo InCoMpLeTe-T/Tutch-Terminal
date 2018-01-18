@@ -22,10 +22,15 @@ namespace Fredags1024x768
     /// </summary>
     public partial class Page1_login : Page
     {
+<<<<<<< HEAD
+
+    
+=======
         
         static String MyConnectionString = "datasource=127.0.0.1;port=3306;username=root;password=;database=vlan1";
         MySqlConnection conn = new MySqlConnection(MyConnectionString);
 
+>>>>>>> dec2a6d276a898d73c85a9ccaf88de38deb55ecb
         public Page1_login()
         {
             InitializeComponent();
